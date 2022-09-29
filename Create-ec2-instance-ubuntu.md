@@ -5,6 +5,9 @@
 
 ![image](https://user-images.githubusercontent.com/44174633/178676886-9c31298c-dec0-4fbb-b8bf-354b1b5c883f.png)
 
+![image](https://user-images.githubusercontent.com/44174633/192948851-f9c634f0-e830-41d4-9640-c4c05704804d.png)
+* save this .ppk file it required to connect to this ec2 instance from your local machine.
+
 ![image](https://user-images.githubusercontent.com/44174633/178677035-94c7908e-0833-4ac8-8d78-8f0fd5212ca9.png)
 
 ![image](https://user-images.githubusercontent.com/44174633/178677262-c62dc837-ec62-47e6-b8a8-ee8150ba31bc.png)
