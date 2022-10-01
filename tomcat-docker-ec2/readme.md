@@ -47,6 +47,7 @@ Note: context path of spirngboot application and name of .war file should same .
 ### step 10: if .war file of spring application then for connecting DB do following changes.
 for installing mysql refer https://github.com/nilesh44/AWS/blob/main/mysql/command.md
 application.yml of springboot application
+
 ![image](https://user-images.githubusercontent.com/44174633/193416209-602eb36f-16ad-4d57-ab54-7648ae917fba.png)
 
 
